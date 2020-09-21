@@ -5,7 +5,7 @@
 
 ### Sad reaction:
 
-![](https://github.com/doquannnn/Datat-Science-Project/blob/master/Sentiment%20analysis/demos/Screen%20Shot%202020-09-21%20at%202.16.32%20PM.png)
+![](https://github.com/doquannnn/Datat-Science-Project/blob/master/Sentiment%20analysis/demos/sad_status.png)
 
 ![](https://github.com/doquannnn/Datat-Science-Project/blob/master/Sentiment%20analysis/demos/sad_react.png)
 
